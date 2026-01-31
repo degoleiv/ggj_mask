@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6258f43bfce18f044a3098c5a8e93d1f, type: 3}
+  m_Name: UFTL_MainFolderStructure
+  m_EditorClassIdentifier: 
+  folders:
+  - Animations/Characters
+  - Animations/Gameplay
+  - Animations/UI
+  - Animations/Billboarding
+  - Audio/Music
+  - Audio/SFX
+  - Audio/Dialogues
+  - FBX/DynamicMeshes/Gameplay
+  - FBX/StaticMeshes/Environment
+  - FBX/VFXMeshes
+  - Materials/Billboarding
+  - Materials/Characters
+  - Materials/DynamicMeshes/Gameplay
+  - Materials/StaticMeshes/Environment
+  - Materials/Shaders
+  - Materials/VFX
+  - Prefabs/Characters
+  - Prefabs/DynamicMeshes/Gameplay
+  - Prefabs/StaticMeshes/Environment
+  - Prefabs/UI
+  - Prefabs/Shaders
+  - Prefabs/VFX
+  - Scenes
+  - Scripts/Characters
+  - Scripts/DynamicMeshes/Gameplay
+  - Scripts/StaticMeshes/Environment
+  - Scripts/Shaders
+  - Scripts/UI
+  - Scripts/VFX
+  - Scripts/VFX
+  - Settings
+  - Shaders/Amplify
+  - Shaders/HLSL
+  - Shaders/ShaderGraph
+  - Textures/2D
+  - Textures/Flipbooks
+  - Textures/Sprites
+  - Textures/VFX
+  - UI/Buttons
+  - UI/Fonts
+  - UI/Icons
+  - UI/Menus
+  - VFX/Shuriken
+  - VFX/VFXGraph
